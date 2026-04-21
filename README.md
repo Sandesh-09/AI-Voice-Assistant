@@ -96,8 +96,9 @@ pp1/
 ### 1. Clone the project
 
 ```bash
-git clone <your-repository-url>
-cd pp1
+git clone https://github.com/Sandesh-09/AI-Voice-Assistant.git
+cd AI-Voice-Assistant
+
 ```
 
 ### 2. Install dependencies
