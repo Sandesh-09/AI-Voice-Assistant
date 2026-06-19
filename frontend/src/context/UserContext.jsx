@@ -4,7 +4,7 @@ import axios from 'axios';
 export const userDataContext = createContext();
 function UserContext({children}) {
 
-  const ServerUrl="http://localhost:8000";
+  const ServerUrl="https://ai-voice-assistant-j2yx.onrender.com";
 
   
 
